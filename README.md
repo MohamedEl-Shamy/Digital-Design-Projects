@@ -1,6 +1,6 @@
 # Digital-Design-Projects
 
-**Welcome**
+**Hello, Welcome to my repository.**
 
 Projects done: 
 - DSP Spartan-6 48A1
